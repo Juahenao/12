@@ -1,17 +1,16 @@
 #EXTM3U x-tvg-url="" tv-test="CO.m3u"
 #EXTINF:-1 tvg-id="46" tvg-name="El Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png", El Chavo TV * | CL
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png", Señal Colombia  | CO
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="128" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/800px-Canal_RCN_logo.svg.png", RCN | CO
-https://m2j3tv8e8t.azcdn728.net:8443/hls/7dwzwc7pob4t6.m3u8?s=CTuDOMCsLWsRySO2r5W-NA&e=1627541434
-#EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
-https://m2j3tv8e8t.azcdn728.net:8443/hls/65is893586k.m3u8?s=zF-5kNzhX29VOcAWzGcvuA&e=1627543918
-#EXTINF:-1 tvg-id="123" tvg-name="Win+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win+   | CO
-https://m2j3tv8e8t.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=hN9K9AI4qMXOh5J71stnmA&e=1627543438
-#EXTINF:-1 tvg-id="123" tvg-name="Win+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win+ OPC2 | CO
-https://m2j3tv8e8t.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=kax57tUg3Pr3i6zDb9DnyQ&e=1627543515
-#EXTINF:-1 tvg-id="123" tvg-name="Win+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win+ OPC3  | CO
-https://m2j3tv8e8t.azcdn728.net:8443/hls/tuhkelirbbj0q.m3u8?s=2wyA9PMfbOb-UL12ZWCDLA&e=1627543680
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png",LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png",TELEMUSICA
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png",FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8#EXTINF:-1 group-title="MUSICA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",VEVO REGGAETÓN & TRAP
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://mixradio.co/wp-content/uploads/2020/10/logo-mix-radio.png", MIX RADIOFM
+https://r70.letio.com/io/?gs=9170&idCDN=70&try=0&type=segments.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://cdn.colombia.com/canales/radio-tiempo-567-v1.jpg", RADIO TIEMPO
+https://r70.letio.com/io/?gs=9144&idCDN=70&try=0&type=segments.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="Olimpica" tvg-logo="https://olimpicastereo.com.co/wp-content/uploads/2019/12/Logo_olimpica_stereologo.png", Olimpica  | CO
 https://r60.letio.com/io/?gs=9128&idCDN=60&try=0&type=segments.m3u8
+
