@@ -1,19 +1,24 @@
 #EXTM3U x-tvg-url="" tv-test="CO.m3u"
 #EXTINF:-1 tvg-id="46" tvg-name="El Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png", El Chavo TV * | CL
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="46" tvg-name="Los Simpson" tvg-logo="https://holatelcel.com/wp-content/uploads/2021/03/simpsons-696x696.jpg", Los Simpson * | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="TELEMUSICA" tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png", TELEMUSICA | CL
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1327104.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="FARRA PLAY" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png", FARRA PLAY | CL
 http://159.203.148.226/live/farra_low.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="MIX RADIOFM" tvg-logo="https://mixradio.co/wp-content/uploads/2020/10/logo-mix-radio.png", MIX RADIOFM | CL
 https://r70.letio.com/io/?gs=9170&idCDN=70&try=0&type=segments.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="RADIO TIEMPO" tvg-logo="https://cdn.colombia.com/canales/radio-tiempo-567-v1.jpg", RADIO TIEMPO | CL
 https://r70.letio.com/io/?gs=9144&idCDN=70&try=0&type=segments.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="Olimpica" tvg-logo="https://https://olimpicastereo.com.co/wp-content/uploads/2019/12/Logo_olimpica_stereologo.png", Olimpica | CL
 https://r60.letio.com/io/?gs=9128&idCDN=60&try=0&type=segments.m3u8
-
 
 
 
